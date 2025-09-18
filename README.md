@@ -21,7 +21,7 @@ then congratulations! You're done.
 
 Please make sure you've completed the Hello World! activity before starting this one. 
 
-You are tasked with finding all the primes between 1 and 10,000,000 (inclusive). Using the Hello World code as a starting place, write a program that prints how many primes there are, followed by a new line and then a comma separated list of those primes. 
+You are tasked with finding all the primes between 1 and 1,000,000 (inclusive). Using the Hello World code as a starting place, write a program that prints how many primes there are, followed by a new line and then a comma separated list of those primes. 
 
 Example output:
 ```
