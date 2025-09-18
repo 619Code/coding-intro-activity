@@ -8,7 +8,7 @@ The goal of this activity is to get a Hello World! program running on your machi
 
 2. Extract the files into a directory of your choice the recommended name is coding-intro-activity. If you've you've cloned the repo, this has been done for you. 
 
-3. Make sure you have Java installed. You will need Java 21+ installed. You can install it from [here](https://openjdk.org/projects/jdk/21/). A note on Java installs. You want to get the OpenJDK version of the Java binaries, not the "official" version from Oracle (although Oracle distributes both). The OpenJDK is licensed under the GPL (GNU Public License) which means it's free for your use. The "official" binaries are under a proprietary license. If you use them, and your app becomes successful then you can tell us all out the lawsuit. 
+3. Make sure you have Java installed. You will need Java 21+ installed. You can install it from [here](https://openjdk.org/projects/jdk/21/). A note on Java installs. You want to get the OpenJDK version of the Java binaries, not the "official" version from Oracle (although Oracle distributes both). The OpenJDK is licensed under the GPL (GNU Public License) which means it's free for your use. The "official" binaries are under a proprietary license. If you use them, and your app becomes successful then you can tell us all about the lawsuit. 
 
 4. Try running `.\gradlew.bat run` from the terminal. If you see 
 ```
